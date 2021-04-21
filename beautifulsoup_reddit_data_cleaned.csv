@@ -1,0 +1,16 @@
+Company Abbreviation,Company Name,Stock Exchange,Users,Comments,Posts,Price,Price Change,Price Change in the last 24h,Volume,Market Cap
+TSLA ,"Tesla, Inc.",NASDAQ,476,926.0,61,$ 732.23,-30.09 (-3.95%),+8.45%,48M,$ 702.83B
+SPY ,SPDR S&P 500 ETF Trust,NYSE,317,439.0,30,$ 411.45,-1.41 (-0.35%),-0.55%,56M,
+AAPL ,Apple Inc.,NASDAQ,179,310.0,27,$ 132.03,-2.40 (-1.79%),-8.69%,83M,$ 2.22T
+AMC ,"AMC Entertainment Holdings, Inc.",NYSE,255,302.0,51,$ 9.35,+0.51 (+5.76%),+15.41%,51M,$ 4.21B
+AMD ,"Advanced Micro Devices, Inc.",NASDAQ,115,156.0,21,$ 78.55,-1.64 (-2.05%),-10.85%,34M,$ 95.41B
+RIOT ,"Riot Blockchain, Inc.",NASDAQ,103,137.0,13,$ 50.16,-9.10 (-15.36%),+24.56%,52M,$ 4.22B
+APHA ,Aphria Inc.,NASDAQ,85,134.0,11,$ 14.23,-0.62 (-4.18%),-32.10%,14M,$ 4.48B
+SQ ,"Square, Inc.",NYSE,60,134.0,8,$ 258.40,-14.83 (-5.43%),+15.81%,12M,$ 117.47B
+GME ,GameStop Corp.,NYSE,2159,25.0,168,$ 166.53,+25.54 (+18.11%),+209.0%,21M,$ 11.66B
+GS ,"The Goldman Sachs Group, Inc.",NYSE,18,24.0,8,$ 335.35,+7.67 (+2.34%),+174.2%,9.8M,$ 114.09B
+VTI ,Vanguard Total Stock Market Index Fund ETF Shares,NYSE,17,21.0,7,$ 214.32,-0.48 (-0.23%),-9.29%,3.7M,
+PLTR ,Palantir Technologies Inc.,NYSE,789,20.0,62,$ 23.70,-1.72 (-6.77%),+28.40%,107M,$ 43.19B
+VOO ,Vanguard S&P 500 ETF,NYSE,9,11.0,6,$ 378.23,-1.22 (-0.33%),+11.02%,3.3M,
+ARKF ,ARK Fintech Innovation ETF,NYSE,10,10.0,4,$ 53.71,-1.47 (-2.67%),+41.94%,2.3M,
+GM ,General Motors Company,NYSE,10,10.0,3,$ 58.48,-0.01 (-0.02%),-29.66%,12M,$ 84.26B

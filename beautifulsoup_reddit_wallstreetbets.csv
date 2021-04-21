@@ -1,0 +1,12 @@
+,Number,Company,Stock Exchange,Rank,Comments/Posts,Users,Price,Price Change,Volume,Price Change in the last 24h,Market Cap
+0,,,,,,,,,,,
+1,1.,GME (GameStop Corp.),NYSE,⬌,"2,971 / 157 posts",2138,$ 166.53,+25.54 (+18.11%),21M,+209.0%,$ 11.66B
+2,2.,PLTR (Palantir Technologies Inc.),NYSE,⬌,"1,369 / 53 posts",770,$ 23.70,-1.72 (-6.77%),107M,+28.40%,$ 43.19B
+3,3.,"TSLA (Tesla, Inc.)",NASDAQ,▲ 1,903 / 52 posts,456,$ 732.23,-30.09 (-3.95%),48M,+8.45%,$ 702.83B
+4,4.,SPY (SPDR S&P 500 ETF Trust),NYSE,▼ 1,425 / 23 posts,307,$ 411.45,-1.41 (-0.35%),56M,-0.55%,
+5,5.,"AMC (AMC Entertainment Holdings, Inc.)",NYSE,⬌,302 / 51 posts,255,$ 9.35,+0.51 (+5.76%),51M,+15.41%,$ 4.21B
+6,6.,AAPL (Apple Inc.),NASDAQ,▲ 3,298 / 16 posts,167,$ 132.03,-2.40 (-1.79%),83M,-8.69%,$ 2.22T
+7,7.,"AMD (Advanced Micro Devices, Inc.)",NASDAQ,▲ 1,156 / 21 posts,115,$ 78.55,-1.64 (-2.05%),34M,-10.85%,$ 95.41B
+8,8.,"RIOT (Riot Blockchain, Inc.)",NASDAQ,▲ 15,137 / 13 posts,103,$ 50.16,-9.10 (-15.36%),52M,+24.56%,$ 4.22B
+9,9.,APHA (Aphria Inc.),NASDAQ,▼ 3,134 / 11 posts,85,$ 14.23,-0.62 (-4.18%),14M,-32.10%,$ 4.48B
+10,10.,"SQ (Square, Inc.)",NYSE,▲ 14,134 / 8 posts,60,$ 258.40,-14.83 (-5.43%),12M,+15.81%,$ 117.47B

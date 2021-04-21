@@ -1,0 +1,12 @@
+,Number,Company,Stock Exchange,Rank,Comments/Posts,Users,Price,Price Change,Volume,Price Change in the last 24h,Market Cap
+0,,,,,,,,,,,
+1,1.,GME (GameStop Corp.),NYSE,▲ 1,25 / 11 posts,21,$ 166.53,+25.54 (+18.11%),21M,+209.0%,$ 11.66B
+2,2.,"GS (The Goldman Sachs Group, Inc.)",NYSE,▲ 23,24 / 8 posts,18,$ 335.35,+7.67 (+2.34%),9.8M,+174.2%,$ 114.09B
+3,3.,"TSLA (Tesla, Inc.)",NASDAQ,▲ 3,23 / 9 posts,20,$ 732.23,-30.09 (-3.95%),48M,+8.45%,$ 702.83B
+4,4.,VTI (Vanguard Total Stock Market Index Fund ETF Shares),NYSE,▼ 1,21 / 7 posts,17,$ 214.32,-0.48 (-0.23%),3.7M,-9.29%,
+5,5.,PLTR (Palantir Technologies Inc.),NYSE,▲ 20,20 / 9 posts,19,$ 23.70,-1.72 (-6.77%),107M,+28.40%,$ 43.19B
+6,6.,SPY (SPDR S&P 500 ETF Trust),NYSE,▲ 4,14 / 7 posts,10,$ 411.45,-1.41 (-0.35%),56M,-0.55%,
+7,7.,AAPL (Apple Inc.),NASDAQ,▼ 6,12 / 11 posts,12,$ 132.03,-2.40 (-1.79%),83M,-8.69%,$ 2.22T
+8,8.,VOO (Vanguard S&P 500 ETF),NYSE,▼ 4,11 / 6 posts,9,$ 378.23,-1.22 (-0.33%),3.3M,+11.02%,
+9,9.,ARKF (ARK Fintech Innovation ETF),NYSE,▲ 16,10 / 4 posts,10,$ 53.71,-1.47 (-2.67%),2.3M,+41.94%,
+10,10.,GM (General Motors Company),NYSE,▲ 15,10 / 3 posts,10,$ 58.48,-0.01 (-0.02%),12M,-29.66%,$ 84.26B
